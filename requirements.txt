@@ -1,0 +1,10 @@
+asgiref==3.4.1
+backports.zoneinfo==0.2.1
+diff-match-patch==20200713
+Django==4.0
+django-simpleui==2022.1
+import-export==0.2.67.dev6
+Pillow==8.4.0
+sqlparse==0.4.2
+tablib==3.1.0
+tzdata==2021.5
